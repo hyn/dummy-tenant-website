@@ -21,9 +21,12 @@
 
 <section class="panel statement light">
     <div class="content">
-        <h1><a href="//hyn.me">Hyn multi tenancy</a></h1>
+        <h1><a href="//hyn.me">Hyn multi tenancy</a> for Laravel 5.1+ LTS</h1>
         <p>
             You are visiting the hostname {{ $_tenant['hostname']->hostname }} of website #{{ $_tenant['hostname']->website_id }}: {{ $_tenant['hostname']->website->identifier }}.
+        </p>
+        <p>
+            This tenant website is part of an <a href="https://github.com/hyn-me/dummy-tenant-website">example tenant website</a>.
         </p>
 
     </div>
