@@ -13,6 +13,6 @@ The following structure is possible. Please note that all of these are optional!
 - /cache
 - /config
 - /lang
-- /media
+- [/media](https://github.com/hyn-me/dummy-tenant-website/blob/master/media/readme.md)
 - /vendor
 - /views
