@@ -7,8 +7,8 @@ package. This package is meant for [Laravel 5.1+](http://laravel.com).
 
 The following structure is possible. Please note that all of these are optional!
 
-- routes.php
-- providers.php
+- [routes.php](https://github.com/hyn-me/dummy-tenant-website/blob/master/routes.php)
+- [providers.php](https://github.com/hyn-me/dummy-tenant-website/blob/master/providers.php)
 - composer.json
 - /cache
 - /config
