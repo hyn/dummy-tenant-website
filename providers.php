@@ -6,4 +6,4 @@
  */
 
 
-//App::register('App\Or\Some\ServiceProvider');
+App::register('Company\Package\PackageServiceProvider');

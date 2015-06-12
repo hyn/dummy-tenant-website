@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Company\\Package\\": "vendor/company/package/src"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}

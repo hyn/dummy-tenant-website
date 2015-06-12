@@ -9,7 +9,7 @@ The following structure is possible. Please note that all of these are optional!
 
 - [routes.php](https://github.com/hyn-me/dummy-tenant-website/blob/master/routes.php)
 - [providers.php](https://github.com/hyn-me/dummy-tenant-website/blob/master/providers.php)
-- composer.json
+- [composer.json](https://github.com/hyn-me/dummy-tenant-website/blob/master/composer.json); set up whatever requirements and custom autoloading facilities
 - /cache
 - /config
 - /lang
