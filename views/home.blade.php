@@ -12,7 +12,7 @@
     <!--[if lte IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="stylesheet" href="http://laravel.com/build/assets/css/laravel-910df0f0.css">
+    <link rel="stylesheet" href="/media/laravel-910df0f0.css">
     <link rel="apple-touch-icon" href="/favicon.png">
 </head>
 <body class="home">
